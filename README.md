@@ -25,4 +25,4 @@ Para iniciar a instalação, você precisará estar logado como root ou um usuá
 ```bash
 ssh root@your.server
 
-wget https://raw.githubusercontent.com/hestiacp/hestiacp/release/install/hst-install.sh
+https://raw.githubusercontent.com/hestiacp/hestiacp/release/install/hst-install.sh
