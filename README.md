@@ -27,6 +27,6 @@ ssh root@your.server
 ```
 ## Etapa 2 - Fazer download
 https://raw.githubusercontent.com/hestiacp/hestiacp/release/install/hst-install.sh
-./hst-install.sh
 
-### Etapa 3 - Fazer download
+### Etapa 3 - Executar
+./hst-install.sh
